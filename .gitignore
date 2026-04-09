@@ -2,8 +2,6 @@
 bin/
 obj/ 
 
-
-
 # Visual Studio
 .vs/
 *.user
