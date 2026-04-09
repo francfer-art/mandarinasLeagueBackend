@@ -2,6 +2,8 @@
 bin/
 obj/ 
 
+
+
 # Visual Studio
 .vs/
 *.user
@@ -42,3 +44,4 @@ Thumbs.db
 # NuGet
 packages/
 *.nupkg
+.vscode/nowdev-ai-config.json
